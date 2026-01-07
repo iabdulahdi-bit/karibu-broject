@@ -1,0 +1,17 @@
+marquee{background: green; 
+    color: whitesmoke;
+
+}
+.design{
+    background: red;
+    font-size: medium;
+    justify-content: center;
+    padding: 20px;
+    border: 0cap;
+
+}
+.logo{
+    background-image: url(c.jpg);
+    font-family: 'Courier New', Courier, monospace;
+    color:red;
+}

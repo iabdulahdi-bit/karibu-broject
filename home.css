@@ -1,0 +1,73 @@
+.form{
+    width: 250px;
+    height: 380px;
+    background-image: url(b.jpg);
+    position: absolute;
+    top: 20px;
+    left: 870px;
+    border-radius: 10px;
+    padding: 25px;
+
+}
+.form h1{
+    width: 220px;
+    font-family: sans-serif;
+    text-align: center;
+    color: red;
+    font-size: 22px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    margin: 2px;
+    padding: 8px;
+}
+.form input{
+    width: 240px;
+    height: 35px;
+    background: wheat;
+    border-bottom: 3px;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    color: aliceblue;
+    font-size: 15px;
+    letter-spacing: 1px;
+    margin-top: 30px;
+    font-family: sans-serif;
+
+}
+.btn{
+    width: 240px;
+    height: 40;
+    background: wheat;
+    border: none;
+    margin-top: 30px;
+    font-size: 18px;
+    border-radius: 10px;
+    cursor: pointer;
+    color: aliceblue;
+    transition: 0.4s ease;
+
+}
+.btn:hover{
+    background: white;
+    color: brown;
+}
+.btn a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+
+}
+.form .link{
+    text-decoration: none;
+    color: aliceblue;
+
+}
+.liw {
+    padding-top: 15px;
+    padding-bottom: 10ox;
+    text-align: center;
+}
+body{
+    background-image: url(c.jpg);
+}

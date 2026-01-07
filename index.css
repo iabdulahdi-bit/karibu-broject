@@ -1,0 +1,45 @@
+body{
+    width: 100;
+    background-image: url("a.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.logo {
+    color: rgba(255, 0, 0, 0.893);
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 20px;
+    float: left;
+    padding-top: 10px;
+
+}
+.menu{
+    width: 400px;
+    float: left;
+    height: 70px;
+
+}
+ul{
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+ul li{
+    list-style: none;
+     margin-left: 62px;
+     margin-top: 27px;
+     font-size: 15px;
+}
+ul a li{
+    text-decoration: none;
+    color: rgba(255, 0, 0, 0.893);
+    font-family: Arial;
+    font-weight: bold;
+    transition: 0.4s ease-in-out;
+
+}
+ul a li:hover{
+    color: white;
+}
