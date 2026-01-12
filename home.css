@@ -35,7 +35,7 @@
     font-family: sans-serif;
 
 }
-.btn{
+.login{
     width: 240px;
     height: 40;
     background: wheat;
@@ -48,11 +48,11 @@
     transition: 0.4s ease;
 
 }
-.btn:hover{
+.login:hover{
     background: white;
     color: brown;
 }
-.btn a{
+.login a{
     text-decoration: none;
     color: black;
     font-weight: bold;
@@ -63,11 +63,7 @@
     color: aliceblue;
 
 }
-.liw {
-    padding-top: 15px;
-    padding-bottom: 10ox;
-    text-align: center;
-}
+
 body{
     background-image: url(c.jpg);
 }
